@@ -10,7 +10,7 @@ Home Assistant Lovelace custom card voor **3-fase energiemeting**. Toont per fas
 
 ## Schermafbeelding
 
-> *(voeg hier een screenshot toe van je dashboard)*
+> *<img src="/ha-energie-card-3fase-preview.jpeg" width="500"/>*
 
 ---
 
