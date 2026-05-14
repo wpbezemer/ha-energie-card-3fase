@@ -36,7 +36,7 @@ Home Assistant Lovelace custom card voor **3-fase energiemeting**. Toont per fas
 
 1. Ga in Home Assistant naar **HACS → Frontend**
 2. Klik op **⋮ → Aangepaste repositories**
-3. Voeg toe: `https://github.com/jouwgebruikersnaam/ha-energie-card-3fase` — categorie: **Lovelace**
+3. Voeg toe: `https://github.com/wpbezemer/ha-energie-card-3fase` — categorie: **Lovelace**
 4. Zoek op **Energie 3 Fase** en klik op **Downloaden**
 5. Herlaad de browser (**Ctrl+Shift+R**)
 
